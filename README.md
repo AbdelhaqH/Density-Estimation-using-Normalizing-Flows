@@ -2,13 +2,7 @@
 
 As a school project, I completed a study on Normalizing Flow and its applications with two other classmates.
 
-Normalizing Flows are a family of generative models for modeling complex probability distributions.
-model complex probability distributions. They enable us to learn
-a complex probability density from a simple one. They are based on
-transforming a simple probability density into a more complex one through a series of
-a series of non-linear transformations. These models have recently attracted the interest
-the machine learning community due to their ability to generate high-quality
-high-quality samples from target distributions.
+Normalizing Flows are a family of generative models for modeling complex probability distributions. They enable us to learn a complex probability density from a simple one. They are based on transforming a simple probability density into a more complex one through a series of a series of non-linear transformations. These models have recently attracted the interest to the machine learning community due to their ability to generate high-quality samples from target distributions.
 
 Some examples of Normalizing flows using the Real NVP model may be found in this project:
 
