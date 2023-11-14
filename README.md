@@ -1,6 +1,7 @@
 # Density-Estimation-using-Normalizing-Flows
 
 As a school project, I completed a study on Normalizing Flow and its applications with two other classmates.
+
 Normalizing Flows are a family of generative models for modeling complex probability distributions.
 model complex probability distributions. They enable us to learn
 a complex probability density from a simple one. They are based on
